@@ -1,4 +1,6 @@
-class Jogo (val titulo:String, val capa:String){
+
+
+data class Jogo (val titulo:String, val capa:String){
 
     val descricao = ""
 
